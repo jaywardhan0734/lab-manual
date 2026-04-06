@@ -23,7 +23,7 @@ if div_result is not None:
  print("Division :", div_result)
  print("Modulus :", mod_result)
 
-Enter first number: 12
+/* Enter first number: 12
 Enter second number: 5
 --- Arithmetic Operations ---
 Addition : 17.0
@@ -31,3 +31,4 @@ Subtraction : 7.0
 Multiplication : 60.0
 Division : 2.4
 Modulus : 2.0
+*/
